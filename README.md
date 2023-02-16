@@ -1,2 +1,2 @@
 # credit-card-fraud-detection
-Algorithm Used:XGBoost regressor
+Algorithm Used:Logistic Regression
